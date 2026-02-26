@@ -7,3 +7,5 @@
 # Our website is located at https://futurevera.thm
 
 # Hint: Don't forget to add the MACHINE_IP in /etc/hosts for futurevera.thm ; 
+
+Irei colocar imagens e também irei gravar um vídeo de como consegui resolver e onde busquei ajuda para resolver também.
