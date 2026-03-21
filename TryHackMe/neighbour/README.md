@@ -36,17 +36,17 @@ O objetivo deste laboratório foi:
 
 A abordagem seguiu etapas clássicas de um teste de segurança:
 
-1. Reconhecimento
+#### 1. Reconhecimento
 - Análise do código-fonte HTML
 - Identificação de informações sensíveis expostas
 - Descoberta de credenciais de utilizador comum
 
-2. Exploração
+#### 2. Exploração
 - Autenticação na aplicação
 - Manipulação de parâmetros na URL
 - Alteração do nível de privilégio (user → admin)
 
-3. Pós-Exploração
+#### 3. Pós-Exploração
 - Acesso ao painel administrativo
 - Validação da elevação de privilégios
 - Captura da flag do desafio
