@@ -1,6 +1,6 @@
-## 🎯 Objetivo desse Repositório é registrar os meus CTFs do THM
+## 🎯 Objetivo desse Repositório é registrar os meus CTFs
 
-### 1. Divisão desse repositório
+### 1. Divisão desse repositório ➗
 
 Ele será dividio em diversos CTFs pertencentes à plataformas conhecidas, exemplo: 
 
@@ -11,7 +11,7 @@ Ele será dividio em diversos CTFs pertencentes à plataformas conhecidas, exemp
 
 <hr>
 
-### 2. Como irá funcionar dentro de cada pasta?
+### 2. Como irá funcionar dentro de cada pasta? 🔎
 
 A princípio irei deixar uma pasta para cada site de CTFs e dentro de cada uma dessas pastas irá conter os nomes dos exercícios:
 
@@ -31,7 +31,15 @@ Além disso, dentro de cada um dos exercícios terá a seguinte divisão:
 
 <hr>
 
-### 3. Direitos
+### 3. Eventos 🏅
+
+Fiz uma adição neste repositório para conter algumas anotações que fiz durantes meus eventos de cybersecutiry. 
+
+Caso queira acessar basta clicar no *<a href="/Events/" style="color: #00cccc;">link</a>*.
+
+<hr>
+
+### 4. Direitos 📍
 
 Este repositório estará aberto para quem quiser contribuir com ideias, sugestões e também a sua própria solução do CTF, sempre com <b>respeito</b>.
 
@@ -39,6 +47,6 @@ Este repositório estará aberto para quem quiser contribuir com ideias, sugest�
 
 <hr>
 
-### 4. Conclusão
+### 5. Conclusão 🏎
 
 Que possamos ter um ambiente de aprendizado e conhecimento 🚀
