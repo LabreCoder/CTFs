@@ -1,4 +1,6 @@
-## Termos Besides 2026 📚
+## Besides 2026 📚
+
+<b>*[Link para as anotações do evento.](/Notes%20lectures%20-%202026.md)*</b>
 
 ### Sites para cursos 😎
 
